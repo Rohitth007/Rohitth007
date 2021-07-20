@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Rohitth007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Rohitth007/Rohitth007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📥 I'm currently contributing to Zulip Terminal for **GSoC**
+- 📌 I’m interested in Robotics, Learning from Data, Linear Algebra and Optimization
+- 📝 I’m currently learning CS50AI, Underactuated Robotics
+- 💫 I’m looking to collaborate on meaningful projects.
